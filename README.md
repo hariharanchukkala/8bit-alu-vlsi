@@ -4,7 +4,7 @@
 Complete VLSI Physical Design of an 8-bit ALU using open source tools.
 
 ## Tools Used
-- EDA Playground (Simulation)
+- AMD Vivado (Simulation)
 - Yosys (Synthesis)
 - OpenLane + Sky130 PDK (Physical Design)
 - KLayout (GDS Viewing)
